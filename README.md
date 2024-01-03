@@ -14,7 +14,7 @@ As the CEO of bCreative, a startup focusing on design services, I bring a unique
 - 🎨 Design: Bootstrap, Adobe Creative Suite, Figma
 - 🌐 Web: HTML, CSS, JavaScript, WordPress
 - 🧠 Other: Leadership, Event Management, Project Management
-- 
+
 ## Experience
 
 - 💼 **CEO, bCreative (2019 - Present)**
