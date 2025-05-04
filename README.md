@@ -1,6 +1,6 @@
 # Mohammed Bilal
 
-👨‍💻 Developer, Designer & Tech Strategist | 🚀 CTO at Studio Bizkit | 🎨 CEO at bCreative | 🎓 MSc Decision & Computing Sciences @ CIT
+👨‍💻 Developer, Designer & Tech Strategist | 🚀 CTO at Studio Bizkit | 🎓 MSc Decision & Computing Sciences @ CIT
 
 ## About Me
 
