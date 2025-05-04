@@ -1,12 +1,12 @@
 # Mohammed Bilal
 
-👨‍💻 Versatile Developer and Designer | 🌐 Founder & CEO at bCreative | 🎓 MSc Decision and Computing Sciences Student
+👨‍💻 Developer, Designer & Tech Strategist | 🚀 CTO at Studio Bizkit | 🎨 CEO at bCreative | 🎓 MSc Decision & Computing Sciences @ CIT
 
 ## About Me
 
-Hi there! I'm Mohammed Bilal, a passionate developer and designer based in Coimbatore, India. Currently, I'm pursuing my Master's in Decision and Computing Sciences at Coimbatore Institute of Technology.
+Hey there! I'm Mohammed Bilal — a code-slinger, design whisperer, and tech enthusiast hailing from Coimbatore, India. I’m currently pursuing an integrated MSc in Decision and Computing Sciences at Coimbatore Institute of Technology, and if you catch me not studying, I’m probably busy building something brilliant.
 
-As the CEO of bCreative, a startup focusing on design services, I bring a unique blend of problem-solving, programming, and design skills to the table.
+I wear a couple of hats (no, seriously): I’m the CEO of bCreative, a digital design studio with over 100 happy clients, and the Chief Technical Officer at Studio Bizkit, where I've led 20+ client projects across industries. From user-friendly designs to complex web apps, I love crafting tech that doesn’t just work—but wows.
 
 ## Skills
 
@@ -17,6 +17,9 @@ As the CEO of bCreative, a startup focusing on design services, I bring a unique
 
 ## Experience
 
+- 💼 **Chief Technical Officer, Studio Bizkit (2024 - Present)**
+  Led tech strategy across 20+ diverse client projects and managed cross-functional teams to deliver scalable, high-quality digital solutions.
+  
 - 💼 **CEO, bCreative (2019 - Present)**
   Expertise in responsive web design, Bootstrap, visual solutions, social media graphic design, and project management.
 
